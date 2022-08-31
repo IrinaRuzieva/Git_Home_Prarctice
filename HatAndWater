@@ -1,4 +1,5 @@
 public class HatAndWater{
-System.out println("Hat and Water")
+System.out println("Hat and Water");
+System.out println(Salt water");
 
 }
